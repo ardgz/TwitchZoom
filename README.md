@@ -10,8 +10,8 @@ Nobody has really ever used that hook since the early 2000s and so we decided to
 
 As an added bonus, you can use this app to overlay it automatically on your own stream via Open Broadcaster Software (OBS) so that when you combine the app with a Browser Source, you can make it so that your normal stream will automatically display the effect by default for your viewers!
 
-
-
+## Video Demo
+https://www.youtube.com/watch?v=B49kD61dz-g
 
 ## Instructions
 
